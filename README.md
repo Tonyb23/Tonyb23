@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Anthony Ubani and I am a multifaceted skilled and results-driven IT professional with a background in Application Support, IT Service Management and Cloud/DevOps Engineering spanning over 3 years in the Fintech sector. I am skilled in utilising advanced tools to extract meaningful insights from intricate datasets and creating innovative solutions by building scalable, reliable, and efficient systems. I have a proven track record of leading impactful projects and my strengths in strategic analysis, attention to detail, persuasive and articulate communication, stakeholder management, and collaborative problem-solving, give me an edge to perform optimally in any environment.
+
 <!--
 **Tonyb23/Tonyb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on developing my Cloud Engineering/DevOps Skills
+- 🌱 I’m currently learning about Git and GitHub foundations and Administration on Microsoft Learn
+- 👯 I’m looking to collaborate on DevOps and other Cloud related Projects 
+- 🤔 I’m looking for help with resources and materials to help my cloud journey
+- 💬 Ask me about Azure, AWS, Linux and PowerBI
+- 📫 How to reach me: ubanianthony23@gmail.com
+- ⚡ Fun fact: I'm an all round athlete but I prefer Soccerr and Basketball cos I'm Excellent at them.
