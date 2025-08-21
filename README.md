@@ -34,10 +34,12 @@ Let's Connect: <br />
 </a>  <br />
 <br />
 
-My name is Anthony Ubani and I am a multifaceted skilled and results-driven IT professional with a background in Application Support, IT Service Management and Cloud/DevOps Engineering spanning over 3 years in the Fintech sector. I am skilled in utilising advanced tools to extract meaningful insights from intricate datasets and creating innovative solutions by building scalable, reliable, and efficient systems. I have a proven track record of leading impactful projects. My strengths in strategic analysis, attention to detail, persuasive and articulate communication, stakeholder management, and collaborative problem-solving, give me an edge to perform optimally in any environment.
+My name is Anthony Ubani and I am a multifaceted skilled and results-driven IT professional with a background in Application Support, IT Service Management and Cloud/DevOps Engineering spanning over 4 years in the Fintech sector. I am skilled in utilising advanced tools to extract meaningful insights from intricate datasets. I am also passionate about designing, deploying, and optimizing cloud-based solutions, ensuring systems reliability and security.
+I have built proficiency in automation, containerization, CI/CD pipelines, and a sound knowledge of Azure and AWS Cloud Services, with a keen ability to solve complex technical challenges and drive operational excellence.
+I have a proven track record of leading impactful projects and my strengths in strategic analysis, attention to detail, persuasive and articulate communication, stakeholder management, and collaborative problem-solving, give me an edge to perform optimally in any environment.
 
 - 🔭 I’m currently working on developing my Cloud Engineering/DevOps Skills
-- 🌱 I’m currently learning about Git and GitHub foundations, Administration, and Actions on Microsoft Learn
+- 🌱 I’m currently learning about Linux, Networking and Automations on KodeKloud
 - 💼 I'm interested in Cloud/DevOps Engineer/Solutions Architect related roles 
 - 🤔 I’m looking for help with resources and opportunities to advance my cloud journey
 - 💬 Ask me about Azure, AWS, Linux and PowerBI
