@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+### You can call me TonyB!
+
 Let's Connect: <br />
 
 <a href="https://www.linkedin.com/in/anthonyifeanyiubani/" target="_blank">
@@ -34,14 +36,13 @@ Let's Connect: <br />
 </a>  <br />
 <br />
 
-My name is Anthony Ubani and I am a multifaceted skilled and results-driven IT professional with a background in Application Support, IT Service Management and Cloud/DevOps Engineering spanning over 4 years in the Fintech sector. I am skilled in utilising advanced tools to extract meaningful insights from intricate datasets. I am also passionate about designing, deploying, and optimizing cloud-based solutions, ensuring systems reliability and security.
+I am a multifaceted skilled and results-driven IT professional with a background in Application Support, IT Service Management and Cloud/DevOps Engineering spanning over 4 years in the Fintech sector. I am skilled in utilising advanced tools to extract meaningful insights from intricate datasets. I am also passionate about designing, deploying, and optimizing cloud-based solutions, ensuring systems reliability and security.
 I have built proficiency in automation, containerization, CI/CD pipelines, and a sound knowledge of Azure and AWS Cloud Services, with a keen ability to solve complex technical challenges and drive operational excellence.
 I have a proven track record of leading impactful projects and my strengths in strategic analysis, attention to detail, persuasive and articulate communication, stakeholder management, and collaborative problem-solving, give me an edge to perform optimally in any environment.
 
-- 🔭 I’m currently working on developing my Cloud Engineering/DevOps Skills
-- 🌱 I’m currently learning about Linux, Networking and Automations on KodeKloud
-- 💼 I'm interested in Cloud/DevOps Engineer/Solutions Architect related roles 
-- 🤔 I’m looking for help with resources and opportunities to advance my cloud journey
-- 💬 Ask me about Azure, AWS, Linux and PowerBI
+- 🔭 I’m constantly developing my Cloud Engineering/DevOps Skills since I transitioned in 2024
+- 🌱 I’m currently learning more about Linux, Networking and Automations on KodeKloud
+- 💼 I'm interested in Cloud/DevOps Engineer or Solutions Architect related roles 
+- 💬 Ask me about Azure, AWS, DevOps and Data Analysis
 - 📫 How to reach me: Send an email to: ubanianthony23@gmail.com
 - 😎 Fun fact: I'm an all-around athlete but prefer Soccer and Basketball because I'm excellent at them!
